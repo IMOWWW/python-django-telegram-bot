@@ -7,6 +7,6 @@ python manage.py makemigrations
 python manage.py migrate 
 python manage.py createsuperuser 
 python manage.py runserver 
-python manage.py bot
+python manage.py bot 
 
-Created by IMOWWW
+### Created by IMOWWW
