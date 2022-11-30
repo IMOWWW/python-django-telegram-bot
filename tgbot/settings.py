@@ -127,6 +127,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 ### телеграм бот
 
-TOKEN = '5982452291:AAGzsNzV2rHwqNu_gblFSSYgS3alMRp4uyw'
+TOKEN = 'TGTOKEN'
 
 # PROXY_URL = ''
